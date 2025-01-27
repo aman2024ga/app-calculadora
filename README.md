@@ -1,16 +1,33 @@
-# myapp
+# Calculadora
 
-A new Flutter project.
+Um projeto de Calculadora desenvolvido em Flutter.
 
-## Getting Started
+## Começando
 
-This project is a starting point for a Flutter application.
+Este projeto é um ponto de partida para um aplicativo de calculadora utilizando Flutter.
 
-A few resources to get you started if this is your first Flutter project:
+### Recursos úteis
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Caso seja a sua primeira vez desenvolvendo em Flutter ou se você precisar de ajuda com algum aspecto do desenvolvimento, aqui estão alguns recursos:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Lab: Escreva seu primeiro app Flutter](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Exemplos úteis de Flutter](https://docs.flutter.dev/cookbook)
+
+Para mais informações e tutoriais sobre como criar aplicativos Flutter, acesse a [documentação oficial](https://docs.flutter.dev/).
+
+## Funcionalidades
+
+A calculadora possui as seguintes funcionalidades:
+
+- Adição, Subtração, Multiplicação e Divisão.
+- Exibição de resultados em tempo real enquanto o usuário insere os números.
+- Limpeza do visor a cada nova operação.
+
+## Como usar
+
+1. Abra o aplicativo.
+2. Use os botões numéricos para inserir números.
+3. Selecione a operação desejada (+, -, *, /).
+4. O resultado será exibido após pressionar o botão "=".
+5. Utilize o botão "Cancelar" para limpar a tela.
+
